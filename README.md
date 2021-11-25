@@ -1,4 +1,4 @@
-### Hi there 👋
+###一旦我意识到生活是可以改变的，我就再也不会和以前一样了。加油 👋
 
 <!--
 **Black-water-side/Black-water-side** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
