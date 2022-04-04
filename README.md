@@ -1,4 +1,5 @@
 ### 一旦我意识到生活是可以改变的，我就再也不会和以前一样
+
 <center>加油</center>👋
 
 <!--
@@ -14,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+      <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
         <style>
             @keyframes c0 {
                 2.11% {
@@ -6850,3 +6852,4 @@ Here are some ideas to get you started:
         <rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1" />
         <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6" />
         <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3" />
+    </svg>
