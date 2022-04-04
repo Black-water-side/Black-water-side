@@ -1,22 +1,15 @@
-### 一旦我意识到生活是可以改变的，我就再也不会和以前一样
+<!DOCTYPE html>
+<html lang="en">
 
-<center>加油</center>👋
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>怎么可能🐶🐶🐶</title>
+</head>
 
-<!--
-**Black-water-side/Black-water-side** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-      <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+<body>
+    <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
         <style>
             @keyframes c0 {
                 2.11% {
@@ -6853,3 +6846,6 @@ Here are some ideas to get you started:
         <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6" />
         <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3" />
     </svg>
+</body>
+
+</html>
