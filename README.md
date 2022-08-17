@@ -1,6 +1,6 @@
 ### 一旦我意识到生活是可以改变的，我就再也不会和以前一样
 
-<cente>加油</center>👋
+<font face="黑体" size=10>加油👋</font>
 
 <!--
 **Black-water-side/Black-water-side** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
