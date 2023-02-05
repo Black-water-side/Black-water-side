@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   -->
 ![Snake animation](https://github.com/Black-water-side/Black-water-side/blob/main/githubput.svg)
 ### 我可怜的数据 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Black-water-side)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Black-water-side)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
