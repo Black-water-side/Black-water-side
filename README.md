@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-### 技术栈
+### 技术栈  
 <hr/>
 <p align="center">
   <a href="https://skillicons.dev">
