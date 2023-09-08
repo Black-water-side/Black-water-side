@@ -1,4 +1,4 @@
-###  ✨人生信条  
+### ✨人生信条  
 <hr/>
 一旦我意识到生活是可以改变的，我就再也不会和以前一样  
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### ✨作品
   
-### 技术栈  
+### ✨技术栈  
 <hr/>
 <p align="center">
   <a href="https://skillicons.dev">
