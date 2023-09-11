@@ -1,7 +1,7 @@
-![](assets/Bottom_up.svg)  
-
 ### ✨人生信条  
 <hr/>
+
+![](./src/header_.png)
 一旦我意识到生活是可以改变的，我就再也不会和以前一样  
 
     
